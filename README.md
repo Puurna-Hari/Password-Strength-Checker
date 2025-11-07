@@ -38,3 +38,20 @@ It’s a complete end-to-end solution — from **data preprocessing** and **mode
 ---
 
 ## 🗂️ Project Structure
+
+Password_Strength_Checker/
+│
+├── manage.py
+├── requirements.txt
+├── db.sqlite3
+├── app_name/
+│   ├── templates/
+│   ├── static/
+│   ├── views.py
+│   ├── urls.py
+│   └── models.py
+└── Password_Strength_Checker/
+    ├── settings.py
+    └── urls.py
+
+
